@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Marco
+- 👋 Hi, I’m Nepy
 - 👀 I’m interested in Cybersecurity and Networking
 - 🌱 I’m currently learning Python
