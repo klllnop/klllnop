@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marco
+- 👀 I’m interested in Cybersecurity and Networking
+- 🌱 I’m currently learning Python
