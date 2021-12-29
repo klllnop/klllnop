@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nepy
-- 👀 I’m interested in Cybersecurity and Networking
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Mobile Development (Android)
+- 🌱 I’m currently learning Python and Java
