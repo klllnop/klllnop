@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Nepy
-- 👀 I’m interested in Mobile Development (Android)
-- 🌱 I’m currently learning Python and Java
+- 👀 I’m interested in Python and Desktop and Web software development
+- 🌱 I’m currently learning Python
